@@ -7,7 +7,5 @@ name = input("What's your name? ")
 hello(name)
 
 
-
-
 # using hello without a parameter
 hello()
