@@ -5,4 +5,5 @@ name = input ("Whats your name? ")
 print ("hello, " + name)
 
 #Say hello message Method 2
+#The reason why there was no space after the hello, was beacause python automatically gives space for multiple arguments
 print ("hello,", name )
